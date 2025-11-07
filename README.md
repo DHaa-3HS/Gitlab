@@ -1,3 +1,3 @@
 # Gitlab
-Now doing experiment 5.
-demonstrating rebase.
+Now doing experiment 6.
+demonstrating merge.
