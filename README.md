@@ -1,3 +1,2 @@
 # Gitlab
-Now doing experiment 6.
-demonstrating merge.
+This is the repository where we learn regarding git and github.
